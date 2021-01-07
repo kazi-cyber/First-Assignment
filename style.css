@@ -1,0 +1,127 @@
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+}
+.first-c{
+    color: rgba(54, 57, 88, 1);
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 3%;
+}
+.second-c{
+    color: rgba(255, 131, 103, 1);
+    font-family: 'Bebas Neue', cursive;
+}
+.third-c{
+    color: rgb(19, 18, 18);
+    font-family: 'Roboto', sans-serif;
+}
+.fourth-c{
+    color: linear;
+}
+
+.first-d{
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+}
+.first-d img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: salmon;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: rgb(234, 235, 243);
+    font-weight: 500;
+}
+.second-d img{
+    width: 100%;
+}
+.second-d{
+    width: 40%;
+    float: right;
+    margin: 3%;
+    padding: 2%;
+    height: 40%;
+    border: 40%;
+    
+}
+.love-e{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.first-sec{
+    border: 50%;
+    height: 50%;
+}
+.fifth-c{
+    color: rgba(54, 57, 88, 1);
+    font-family:'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+.pic-c img{
+    width: 100%;
+}
+
+.pic-c{
+    box-sizing: border-box;
+    float: left;
+    padding: 3px; 
+    width: 28.3%;
+    padding-right: 3px;
+    box-shadow: gray;
+}
+.single-f{
+    box-shadow: 10px 10px 20px grey ;
+    border-radius: 10px;
+    background-position: 3px;
+    height: 70%;
+    margin-left: 4%;
+}
+.inquiry{
+    background-image: url(personal-website-main/personal-website-main/shapes/background.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border-radius: 10px 10px 10px 10px;
+}
+.work-k{
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Bebas Neue', cursive;
+    padding-top: 5%;
+    padding-left: 6%;
+}
+.space-x{
+    height: 525px;
+}
+.fight-hours{
+    height: 300px;
+}
+.link-b{
+    background-color: salmon;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 50px;
+    width: 100px;
+    text-align: center;
+    padding: 16px 16px;
+    padding-bottom: 2%;
+    padding-left: 2.5%;
+    margin-left: 75.5%;
+    margin-bottom: 10%;
+}
+.lol-p{
+    padding-left: 3%;
+}
